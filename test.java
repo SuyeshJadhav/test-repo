@@ -5,6 +5,5 @@ class test{
         System.out.print("\nEnter number: ");
         String a = s.nextLine();
         System.out.println(a);
-        s.close();
     }
 }
